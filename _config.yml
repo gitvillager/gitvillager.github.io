@@ -63,7 +63,7 @@ favicon: assets/built/images/favicon.png
 production_url: https://gitvillager.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: https://github.com/gitvillager/gitvillager.github.io
+source_url: https://github.com/gitvillager/gitvillager.github.io/
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
