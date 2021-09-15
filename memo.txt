@@ -1,0 +1,13 @@
+
+1) create new site
+#jekyll new ./ 
+
+2) compile and run
+#bundle exec jekyll serve
+
+
+
+
+before git push,
+clean unnessary file or folder
+#jekyll clean
